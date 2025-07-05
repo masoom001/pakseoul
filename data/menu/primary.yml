@@ -1,7 +1,4 @@
 links:
   - title: Contact
     is_highlighted: true
-  - title: Policy
-  - title: Rabta
-    links:
-      - title: Get in Touch
+    url: https://pakinseoul.netlify.app/legal-mentions/
