@@ -10,5 +10,14 @@ hero:
   ctas:
     - text: Discover
       url: https://pakinseoul.netlify.app/legal-mentions/
-  align: center
+    - text: Discover Mission
+      url: https://pakinseoul.netlify.app/legal-mentions/
+  align: start
+blocks:
+  - type: quote
+    background: false
+    author:
+      title: Rumi
+      text: ""
+    quote: Wound is where the light enters you!
 ---
