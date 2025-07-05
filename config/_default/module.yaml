@@ -8,7 +8,8 @@ imports:
   - path: github.com/hugolify/hugolify-theme-persons
 
   # Core theme
-  - path: github.com/hugolify/hugolify-theme
+  - path: github.com/hugolify/hugolify-theme-3
+  - path: github.com/hugolify/hugolify-theme # Core theme
 
   # CMS
   - path: github.com/hugolify/hugolify-admin
