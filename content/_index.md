@@ -15,7 +15,7 @@ hero:
   align: start
 blocks:
   - type: quote
-    background: false
+    background: true
     author:
       title: Rumi
       text: ""
