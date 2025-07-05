@@ -3,11 +3,11 @@ defaultContentLanguage: en
 
 ## ADVANCED
 build:
-  buildStats:
+    buildStats:
+    enable: true
     disableClasses: false
     disableIDs: true
     disableTags: false
-    enable: true
 enableRobotsTXT: true
 imaging:
   quality: 75
